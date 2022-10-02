@@ -15,7 +15,7 @@
             <TextField layoutX="23.0" layoutY="134.0" prefHeight="25.0" prefWidth="180.0" promptText="Enter your phone number" />
             <PasswordField focusTraversable="false" layoutX="23.0" layoutY="182.0" prefHeight="25.0" prefWidth="180.0" promptText="Enter your city name" />
             <Button layoutX="118.0" layoutY="280.0" mnemonicParsing="false" prefHeight="25.0" prefWidth="204.0" style="-fx-background-color: linear-gradient(to right top, #a617ff, #9731fc, #893ff8, #7c49f3, #7051ed, #5a62f3, #4471f6, #2f7df6, #0093fd, #00a8fe, #2cbafd, #5bcbfa);" text="Register" textFill="WHITE" />
-            <Label alignment="CENTER" layoutX="139.0" layoutY="26.0" prefHeight="27.0" prefWidth="162.0" text="Patient Registartion" textFill="#a617ff">
+            <Label alignment="CENTER" layoutX="139.0" layoutY="26.0" prefHeight="27.0" prefWidth="162.0" text="Patient Registration" textFill="#a617ff">
                <font>
                   <Font size="18.0" />
                </font>
